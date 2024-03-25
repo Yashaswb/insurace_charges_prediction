@@ -1,4 +1,4 @@
-### Multiple Linear Regression
+### Model used: Multiple Linear Regression
 
 #### This project aims at predicting insurance charges based on the following attributes:
 
